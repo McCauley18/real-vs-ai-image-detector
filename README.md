@@ -57,7 +57,7 @@ The model uses **EfficientNet-B0** pre-trained on ImageNet as the backbone for f
 - **Deep Learning:** PyTorch, torchvision  
 - **Model:** EfficientNet-B0 (pre-trained)  
 - **Deployment:** Localhost (development)
-- **Environment:** Conda / virtualenv, Python 3.12  
+- **Environment:** Conda, Python 3.12  
 
 ---
 
