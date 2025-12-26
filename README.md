@@ -99,11 +99,11 @@ The model uses **EfficientNet-B0** pre-trained on ImageNet as the backbone for f
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/real-vs-ai-image-detector.git
+git clone https://github.com/McCauley18/real-vs-ai-image-detector.git
 cd real-vs-ai-image-detector
 
 # Create environment
-conda create -n imageaidetector python=3.11
+conda create -n imageaidetector python=3.12
 conda activate imageaidetector
 
 # Install dependencies
